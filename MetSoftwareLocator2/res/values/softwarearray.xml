@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="softwareArray">
+        <item>Eclipse Orecle</item>
+        <item>Eclipse 4.1</item>
+        <item>Dreamviewer</item>
+        <item>Express Studio</item>
+        <item>Photoshop</item>
+        <item>Netbeans</item>
+        <item>Notpad++</item>
+        <item>Paint.net</item>
+        <item>Protege</item>
+        <item>Gantt Project</item>
+        <item>Team Viewer</item>
+        <item>FileZilla</item>
+    </string-array>
+
+</resources>

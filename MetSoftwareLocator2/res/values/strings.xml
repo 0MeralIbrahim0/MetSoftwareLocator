@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">MetSoftwareLocator2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MetSoftwareLocator</string>
+    <string name="my_rooms">My Rooms</string>
+    <string name="makelist">Make List</string>
+    <string name="showlist">Show List</string>
+    <string name="guide">Guide</string>
+    <string name="settings">Settings</string>
+    <string name="showrooms">Show Rooms</string>
+    <string name="showsoftware">Show Software</string>
+    <string name="nearestroom">Nearest Room</string>
+    <string name="listname">List Name: </string>
+    <string name="chooserooms">Choose Rooms: </string>
+    <string name="submit">SUBMIT</string>
+    <string name="rooms">Rooms: </string>
+    <string name="chooselist">Choose List: </string>
+    <string name="choosesoftware">Choose Software</string>
+    <string name="software">Software</string>
+    <string name="yourlocation">Your Location</string>
+    <string name="deleteLists">Delete Lists</string>
+    <string name="tapToDelete">TAP TO DELETE!</string>
+    <string name="tapToDelete2">Tap on a list to delete it.</string>
+    <string name="myLists">My Lists:</string>
+    <string name="tapSoftwareToSeeRooms">Tap on a software to see the rooms.</string>
+    <string name="tapRoomToSeeSoftware">Tap on a room to see the software.</string>
+    
+    <!-- ROOMS -->
+
+    <string name="room1">TMG-01</string>
+    <string name="room2">TMG-02</string>
+    <string name="room3">TMG-03</string>
+    <string name="room4">TMG-04</string>
+    <string name="room5">TMG-05</string>
+    <string name="room6">T2-20</string>
+    <string name="room7">T5-20</string>
+    <string name="room8">T6-20</string>
+    <string name="room9">T7-06</string>
+    <string name="room10">T7-05</string>
+    <string name="room11">T7-20</string>
+    <string name="room12">T8-03</string>
+    <string name="room13">T8-06</string>
+    <string name="room14">T8-07</string>
+    <string name="room15">Project Room</string>
+
+</resources>
